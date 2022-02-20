@@ -1,4 +1,4 @@
-------in main.py:-------
+-----in main.py:------
 
 
 
@@ -183,7 +183,7 @@ if __name__ == '__main__':
     
     
     
------in file.py-----
+----in file.py----
 
 
 
